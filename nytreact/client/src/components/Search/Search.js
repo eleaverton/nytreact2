@@ -18,8 +18,23 @@ class Search extends Component{
 			//change above to this references once api call works
 			.then(res => this.setState({searchResults: res.data}))
 			.catch(err => console.log(err));
-		console.log(this.state.searchResults);
+		console.log("Line 21 Search: "+this.state.searchResults);
 	};
+
+	handleInputChange = event => {
+    // Getting the value and name of the input which triggered the change
+    console.log("EVENT");
+    console.log(event.target);
+    const { name, value } = event.target;
+    console.log("NAME");
+    console.log(name);
+
+    // Updating the input's state
+    this.setState({
+      [name]: value
+    });
+  };
+
 
 	render(){
   		return (
