@@ -14,30 +14,35 @@ export default {
   // Saves a book to the database
   saveArticle: function(articleData) {
     return axios.post("/api/articles", articleData);
-  }, 
-
-  searchArticles: function(q,begin_date,end_date){
-    console.log("API called");
-    var key= "06c43476f224443fb7b33c253b7bd1c2";
-    var queryURL = "https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key=" + key + "&q=" +
-                  q + "&begin_date=" + begin_date + "&end_date=" + end_date;
-    console.log(queryURL);
-    return axios.get(queryURL).then((response) => {
-      console.log("Line 26 API: "+response);
-      // var result = [];
-      // if (response.data.response.docs[0]){
-        
-      //   for (var i=0; i<response.data.response.docs[10];i++){
-      //     var resultInfo = {};
-      //     resultInfo.title=response.data.response.docs[i].headline.main;
-      //     resultInfo.date=response.data.response.docs[i].pub_date;
-      //     resultInfo.url= response.data.response.docs[i].web_url;
-      //     result.push(resultInfo);
-      //   }
-      // }
-      // return resultInfo;
-    }).catch(error => {
-      console.log(error);
-    });
   }
+
+  // searchArticles: function(q,begin_date,end_date){
+  //   console.log("API called");
+  //   var key= "06c43476f224443fb7b33c253b7bd1c2";
+  //   var queryURL = "https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key=" + key + "&q=" +
+  //                 q + "&begin_date=" + begin_date + "&end_date=" + end_date;
+  //   console.log(queryURL);
+//     axios.get(queryURL).then((response) => {
+      
+// //mount data
+//       console.log("Line 26 API: "+response);
+//       // var result = [];
+//       // if (response.data.response.docs[0]){
+        
+//       //   for (var i=0; i<response.data.response.docs[10];i++){
+//       //     var resultInfo = {};
+//       //     resultInfo.title=response.data.response.docs[i].headline.main;
+//       //     resultInfo.date=response.data.response.docs[i].pub_date;
+//       //     resultInfo.url= response.data.response.docs[i].web_url;
+//       //     result.push(resultInfo);
+//       //   }
+//       // }
+//       // return resultInfo;
+//     }).catch(error => {
+//       console.log(error);
+//     })
+
+  
+
+
 };

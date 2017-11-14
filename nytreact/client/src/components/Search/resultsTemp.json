@@ -1,0 +1,1501 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+    "response":
+    {
+        "docs": [
+        {
+            "web_url": "https://www.nytimes.com/2017/10/27/science/cats-whiskers.html",
+            "snippet": "Feline whiskers may have bands of color similar to those observed in fur, but experts aren’t sure why.",
+            "print_page": "4",
+            "blog":
+            {},
+            "source": "The New York Times",
+            "multimedia": [
+            {
+                "type": "image",
+                "subtype": "xlarge",
+                "url": "images/2017/10/31/science/31QNA/31QNA-articleLarge.jpg",
+                "height": 596,
+                "width": 600,
+                "rank": 0,
+                "legacy":
+                {
+                    "xlargewidth": 600,
+                    "xlarge": "images/2017/10/31/science/31QNA/31QNA-articleLarge.jpg",
+                    "xlargeheight": 596
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "wide",
+                "url": "images/2017/10/31/science/31QNA/31QNA-thumbWide.jpg",
+                "height": 126,
+                "width": 190,
+                "rank": 0,
+                "legacy":
+                {
+                    "wide": "images/2017/10/31/science/31QNA/31QNA-thumbWide.jpg",
+                    "widewidth": 190,
+                    "wideheight": 126
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "thumbnail",
+                "url": "images/2017/10/31/science/31QNA/31QNA-thumbStandard.jpg",
+                "height": 75,
+                "width": 75,
+                "rank": 0,
+                "legacy":
+                {
+                    "thumbnailheight": 75,
+                    "thumbnail": "images/2017/10/31/science/31QNA/31QNA-thumbStandard.jpg",
+                    "thumbnailwidth": 75
+                }
+            }],
+            "headline":
+            {
+                "main": "The Stripes in a Cat’s Whiskers",
+                "kicker": "Q&A",
+                "print_headline": "Pattern Recognition"
+            },
+            "keywords": [
+            {
+                "isMajor": "N",
+                "rank": 1,
+                "name": "subject",
+                "value": "Cats"
+            },
+            {
+                "isMajor": "N",
+                "rank": 2,
+                "name": "subject",
+                "value": "Genetics and Heredity"
+            }],
+            "pub_date": "2017-10-27T15:56:53+0000",
+            "document_type": "article",
+            "new_desk": "Science",
+            "byline":
+            {
+                "original": "By C. CLAIBORNE RAY"
+            },
+            "type_of_material": "Question",
+            "_id": "59f357547c459f246b6312b5",
+            "word_count": 258,
+            "score": 3.1657007,
+            "uri": "nyt://article/c23be569-c2fc-5301-91e9-fba8803e9504"
+        },
+        {
+            "web_url": "https://www.nytimes.com/2017/08/25/magazine/judge-john-hodgman-on-pets-who-share-names-with-humans.html",
+            "snippet": "Whom do you love more: your cat or your nephew?",
+            "print_page": "24",
+            "blog":
+            {},
+            "source": "The New York Times",
+            "multimedia": [
+            {
+                "type": "image",
+                "subtype": "xlarge",
+                "url": "images/2017/08/27/magazine/27hodgman/27mag-27hodgman.t_CA0-articleLarge.jpg",
+                "height": 596,
+                "width": 600,
+                "rank": 0,
+                "legacy":
+                {
+                    "xlargewidth": 600,
+                    "xlarge": "images/2017/08/27/magazine/27hodgman/27mag-27hodgman.t_CA0-articleLarge.jpg",
+                    "xlargeheight": 596
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "wide",
+                "url": "images/2017/08/27/magazine/27hodgman/27mag-27hodgman.t_CA0-thumbWide.jpg",
+                "height": 126,
+                "width": 190,
+                "rank": 0,
+                "legacy":
+                {
+                    "wide": "images/2017/08/27/magazine/27hodgman/27mag-27hodgman.t_CA0-thumbWide.jpg",
+                    "widewidth": 190,
+                    "wideheight": 126
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "thumbnail",
+                "url": "images/2017/08/27/magazine/27hodgman/27mag-27hodgman.t_CA0-thumbStandard.jpg",
+                "height": 75,
+                "width": 75,
+                "rank": 0,
+                "legacy":
+                {
+                    "thumbnailheight": 75,
+                    "thumbnail": "images/2017/08/27/magazine/27hodgman/27mag-27hodgman.t_CA0-thumbStandard.jpg",
+                    "thumbnailwidth": 75
+                }
+            }],
+            "headline":
+            {
+                "main": "Judge John Hodgman on Pets Who Share Names with Humans",
+                "kicker": "Judge John Hodgman",
+                "print_headline": "Bonus Advice From Judge John Hodgman"
+            },
+            "keywords": [
+            {
+                "isMajor": "N",
+                "rank": 1,
+                "name": "subject",
+                "value": "Cats"
+            }],
+            "pub_date": "2017-08-25T09:00:01+0000",
+            "document_type": "article",
+            "new_desk": "Magazine",
+            "byline":
+            {
+                "original": "By JOHN HODGMAN"
+            },
+            "type_of_material": "News",
+            "_id": "599fe71d7c459f246b6200af",
+            "word_count": 160,
+            "score": 3.113162,
+            "uri": "nyt://article/4aae9422-2131-5ad3-92e6-0a7fecd217f2"
+        },
+        {
+            "web_url": "https://www.nytimes.com/video/t-magazine/100000005354612/on-set-5-cats-200-japanese-pastries.html",
+            "snippet": "On set with the feline stars of a very sweet story in T’s fall women’s issue.",
+            "blog":
+            {},
+            "source": "The New York Times",
+            "multimedia": [
+            {
+                "type": "image",
+                "subtype": "xlarge",
+                "url": "images/2017/08/14/t-magazine/14tmag-cats02/14tmag-cats02-articleLarge.jpg",
+                "height": 337,
+                "width": 600,
+                "rank": 0,
+                "legacy":
+                {
+                    "xlargewidth": 600,
+                    "xlarge": "images/2017/08/14/t-magazine/14tmag-cats02/14tmag-cats02-articleLarge.jpg",
+                    "xlargeheight": 337
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "wide",
+                "url": "images/2017/08/14/t-magazine/14tmag-cats02/14tmag-cats02-thumbWide.jpg",
+                "height": 126,
+                "width": 190,
+                "rank": 0,
+                "legacy":
+                {
+                    "wide": "images/2017/08/14/t-magazine/14tmag-cats02/14tmag-cats02-thumbWide.jpg",
+                    "widewidth": 190,
+                    "wideheight": 126
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "thumbnail",
+                "url": "images/2017/08/14/t-magazine/14tmag-cats02/14tmag-cats02-thumbStandard.jpg",
+                "height": 75,
+                "width": 75,
+                "rank": 0,
+                "legacy":
+                {
+                    "thumbnailheight": 75,
+                    "thumbnail": "images/2017/08/14/t-magazine/14tmag-cats02/14tmag-cats02-thumbStandard.jpg",
+                    "thumbnailwidth": 75
+                }
+            }],
+            "headline":
+            {
+                "main": "On Set | 5 Cats, 200 Japanese Pastries"
+            },
+            "keywords": [
+            {
+                "isMajor": "N",
+                "rank": 1,
+                "name": "subject",
+                "value": "Cats"
+            }],
+            "pub_date": "2017-08-14T06:40:25+0000",
+            "document_type": "multimedia",
+            "byline":
+            {
+                "original": "By ANTHONY COTSIFAS"
+            },
+            "type_of_material": "Video",
+            "_id": "599145df7c459f246b61e2d2",
+            "word_count": 16,
+            "score": 2.5203204,
+            "uri": "nyt://video/6551cc2c-2d61-58c6-8f7a-ac96a3d6d8ea"
+        },
+        {
+            "web_url": "https://www.nytimes.com/2017/11/03/opinion/sunday/lesbian-cats-dating.html",
+            "snippet": "They mirror bad relationships. They ghost you. They string you along with tiny rewards.",
+            "print_page": "7",
+            "blog":
+            {},
+            "source": "The New York Times",
+            "multimedia": [
+            {
+                "type": "image",
+                "subtype": "xlarge",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-articleLarge.jpg",
+                "height": 558,
+                "width": 600,
+                "rank": 0,
+                "legacy":
+                {
+                    "xlargewidth": 600,
+                    "xlarge": "images/2017/11/05/opinion/sunday/05burton/05burton-articleLarge.jpg",
+                    "xlargeheight": 558
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "wide",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-thumbWide.jpg",
+                "height": 126,
+                "width": 190,
+                "rank": 0,
+                "legacy":
+                {
+                    "wide": "images/2017/11/05/opinion/sunday/05burton/05burton-thumbWide.jpg",
+                    "widewidth": 190,
+                    "wideheight": 126
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "thumbnail",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-thumbStandard.jpg",
+                "height": 75,
+                "width": 75,
+                "rank": 0,
+                "legacy":
+                {
+                    "thumbnailheight": 75,
+                    "thumbnail": "images/2017/11/05/opinion/sunday/05burton/05burton-thumbStandard.jpg",
+                    "thumbnailwidth": 75
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "articleInline",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-articleInline.jpg",
+                "height": 177,
+                "width": 190,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "blog225",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-blog225.jpg",
+                "height": 209,
+                "width": 225,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "blog427",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-blog427.jpg",
+                "height": 397,
+                "width": 427,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "blog480",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-blog480.jpg",
+                "height": 446,
+                "width": 480,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "blog533",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-blog533.jpg",
+                "height": 496,
+                "width": 533,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "blogSmallInline",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-blogSmallInline.jpg",
+                "height": 140,
+                "width": 151,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "blogSmallThumb",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-blogSmallThumb.jpg",
+                "height": 50,
+                "width": 50,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "facebookJumbo",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-facebookJumbo-v4.jpg",
+                "height": 550,
+                "width": 1050,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "filmstrip",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-filmstrip-v2.jpg",
+                "height": 190,
+                "width": 190,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "hpLarge",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-hpLarge.jpg",
+                "height": 288,
+                "width": 511,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "hpSmall",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-hpSmall.jpg",
+                "height": 152,
+                "width": 163,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "jumbo",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-jumbo.jpg",
+                "height": 952,
+                "width": 1024,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "largeHorizontal375",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-largeHorizontal375.jpg",
+                "height": 250,
+                "width": 375,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "largeHorizontalJumbo",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-largeHorizontalJumbo.jpg",
+                "height": 683,
+                "width": 1024,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "largeWidescreen573",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-largeWidescreen573.jpg",
+                "height": 323,
+                "width": 573,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "largeWidescreen1050",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-largeWidescreen1050.jpg",
+                "height": 591,
+                "width": 1050,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "master1050",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-master1050.jpg",
+                "height": 976,
+                "width": 1050,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "master180",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-master180.jpg",
+                "height": 167,
+                "width": 180,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "master315",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-master315.jpg",
+                "height": 293,
+                "width": 315,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "master495",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-master495.jpg",
+                "height": 460,
+                "width": 495,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "master768",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-master768.jpg",
+                "height": 714,
+                "width": 768,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "mediumFlexible177",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-mediumFlexible177.jpg",
+                "height": 165,
+                "width": 177,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "mediumSquare149",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-mediumSquare149-v2.jpg",
+                "height": 149,
+                "width": 149,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "mediumThreeByTwo210",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-mediumThreeByTwo210.jpg",
+                "height": 140,
+                "width": 210,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "mediumThreeByTwo225",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-mediumThreeByTwo225.jpg",
+                "height": 150,
+                "width": 225,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "mediumThreeByTwo440",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-mediumThreeByTwo440.jpg",
+                "height": 293,
+                "width": 440,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "miniMoth",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-miniMoth.jpg",
+                "height": 70,
+                "width": 151,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "moth",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-moth-v2.jpg",
+                "height": 151,
+                "width": 151,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "popup",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-popup.jpg",
+                "height": 500,
+                "width": 538,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "sfSpan",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-sfSpan.jpg",
+                "height": 263,
+                "width": 395,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "slide",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-slide.jpg",
+                "height": 500,
+                "width": 538,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "smallSquare168",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-smallSquare168.jpg",
+                "height": 168,
+                "width": 168,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "smallSquare252",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-smallSquare252.jpg",
+                "height": 252,
+                "width": 252,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "square320",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-square320-v2.jpg",
+                "height": 320,
+                "width": 320,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "square640",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-square640-v2.jpg",
+                "height": 640,
+                "width": 640,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "superJumbo",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-superJumbo.jpg",
+                "height": 1905,
+                "width": 2048,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "thumbLarge",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-thumbLarge.jpg",
+                "height": 150,
+                "width": 150,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "tmagArticle",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-tmagArticle.jpg",
+                "height": 551,
+                "width": 592,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "tmagSF",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-tmagSF.jpg",
+                "height": 337,
+                "width": 362,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "verticalTwoByThree735",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-verticalTwoByThree735.jpg",
+                "height": 1103,
+                "width": 735,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoFifteenBySeven1305",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoFifteenBySeven1305.jpg",
+                "height": 609,
+                "width": 1305,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoFifteenBySeven2610",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoFifteenBySeven2610.jpg",
+                "height": 1218,
+                "width": 2610,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoHpMedium",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoHpMedium.jpg",
+                "height": 211,
+                "width": 375,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoLarge",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoLarge.jpg",
+                "height": 507,
+                "width": 768,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoSixteenByNine1050",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoSixteenByNine1050.jpg",
+                "height": 591,
+                "width": 1050,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoSixteenByNine150",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoSixteenByNine150.jpg",
+                "height": 84,
+                "width": 150,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoSixteenByNine225",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoSixteenByNine225.jpg",
+                "height": 126,
+                "width": 225,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoSixteenByNine310",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoSixteenByNine310.jpg",
+                "height": 174,
+                "width": 310,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoSixteenByNine390",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoSixteenByNine390.jpg",
+                "height": 219,
+                "width": 390,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoSixteenByNine480",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoSixteenByNine480.jpg",
+                "height": 270,
+                "width": 480,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoSixteenByNine495",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoSixteenByNine495.jpg",
+                "height": 278,
+                "width": 495,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoSixteenByNine540",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoSixteenByNine540.jpg",
+                "height": 304,
+                "width": 540,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoSixteenByNine600",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoSixteenByNine600.jpg",
+                "height": 338,
+                "width": 600,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoSixteenByNine768",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoSixteenByNine768.jpg",
+                "height": 432,
+                "width": 768,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoSixteenByNine96",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoSixteenByNine96.jpg",
+                "height": 54,
+                "width": 96,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoSixteenByNineJumbo1600",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoSixteenByNineJumbo1600.jpg",
+                "height": 901,
+                "width": 1600,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoSmall",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoSmall.jpg",
+                "height": 281,
+                "width": 500,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "videoThumb",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-videoThumb.jpg",
+                "height": 50,
+                "width": 75,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "watch268",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-watch268.jpg",
+                "height": 304,
+                "width": 272,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "watch308",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-watch308.jpg",
+                "height": 348,
+                "width": 312,
+                "rank": 0,
+                "legacy":
+                {}
+            },
+            {
+                "type": "image",
+                "subtype": "windowsTile336H",
+                "url": "images/2017/11/05/opinion/sunday/05burton/05burton-windowsTile336H.jpg",
+                "height": 336,
+                "width": 694,
+                "rank": 0,
+                "legacy":
+                {}
+            }],
+            "headline":
+            {
+                "main": "I’m a Lesbian Who Hates Cats. I’m Going to Die Alone.",
+                "kicker": "Opinion",
+                "print_headline": "Loving Cats Means Hating Yourself"
+            },
+            "keywords": [
+            {
+                "isMajor": "N",
+                "rank": 1,
+                "name": "subject",
+                "value": "Cats"
+            },
+            {
+                "isMajor": "N",
+                "rank": 2,
+                "name": "subject",
+                "value": "Dating and Relationships"
+            },
+            {
+                "isMajor": "N",
+                "rank": 3,
+                "name": "subject",
+                "value": "Homosexuality and Bisexuality"
+            },
+            {
+                "isMajor": "N",
+                "rank": 4,
+                "name": "subject",
+                "value": "Love (Emotion)"
+            }],
+            "pub_date": "2017-11-03T19:00:15+0000",
+            "document_type": "article",
+            "new_desk": "OpEd",
+            "section_name": "Sunday Review",
+            "byline":
+            {
+                "original": "By KRISTA BURTON"
+            },
+            "type_of_material": "Op-Ed",
+            "_id": "59fcbccb7c459f246b63280e",
+            "word_count": 1038,
+            "score": 2.392368,
+            "uri": "nyt://article/c0024623-cc9b-5022-b0b1-47a2d5ba09ad"
+        },
+        {
+            "web_url": "https://www.nytimes.com/2017/09/11/us/hemingway-cats-irma.html",
+            "snippet": "The 54 cats, many of them descendants of one owned by Hemingway, live at the author’s house in Key West, which was hit hard by Hurricane Irma.",
+            "print_page": "17",
+            "blog":
+            {},
+            "source": "The New York Times",
+            "multimedia": [
+            {
+                "type": "image",
+                "subtype": "xlarge",
+                "url": "images/2017/09/11/us/12xp-hemingwaycats/12xp-hemingwaycats-articleLarge.jpg",
+                "height": 400,
+                "width": 600,
+                "rank": 0,
+                "legacy":
+                {
+                    "xlargewidth": 600,
+                    "xlarge": "images/2017/09/11/us/12xp-hemingwaycats/12xp-hemingwaycats-articleLarge.jpg",
+                    "xlargeheight": 400
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "wide",
+                "url": "images/2017/09/11/us/12xp-hemingwaycats/12xp-hemingwaycats-thumbWide.jpg",
+                "height": 126,
+                "width": 190,
+                "rank": 0,
+                "legacy":
+                {
+                    "wide": "images/2017/09/11/us/12xp-hemingwaycats/12xp-hemingwaycats-thumbWide.jpg",
+                    "widewidth": 190,
+                    "wideheight": 126
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "thumbnail",
+                "url": "images/2017/09/11/us/12xp-hemingwaycats/12xp-hemingwaycats-thumbStandard.jpg",
+                "height": 75,
+                "width": 75,
+                "rank": 0,
+                "legacy":
+                {
+                    "thumbnailheight": 75,
+                    "thumbnail": "images/2017/09/11/us/12xp-hemingwaycats/12xp-hemingwaycats-thumbStandard.jpg",
+                    "thumbnailwidth": 75
+                }
+            }],
+            "headline":
+            {
+                "main": "Hemingway’s Six-Toed Cats Ride Out Hurricane Irma in Key West",
+                "print_headline": "6-Toed Cats Unscratched By Storm In Key West"
+            },
+            "keywords": [
+            {
+                "isMajor": "N",
+                "rank": 1,
+                "name": "subject",
+                "value": "Hurricane Irma (2017)"
+            },
+            {
+                "isMajor": "N",
+                "rank": 2,
+                "name": "subject",
+                "value": "Cats"
+            },
+            {
+                "isMajor": "N",
+                "rank": 3,
+                "name": "persons",
+                "value": "Hemingway, Ernest"
+            },
+            {
+                "isMajor": "N",
+                "rank": 4,
+                "name": "organizations",
+                "value": "Hemingway, Ernest, Home & Museum"
+            },
+            {
+                "isMajor": "N",
+                "rank": 5,
+                "name": "glocations",
+                "value": "Key West (Fla)"
+            },
+            {
+                "isMajor": "N",
+                "rank": 6,
+                "name": "persons",
+                "value": "Hemingway, Mariel"
+            }],
+            "pub_date": "2017-09-11T17:14:11+0000",
+            "document_type": "article",
+            "new_desk": "Express",
+            "byline":
+            {
+                "original": "By MAGGIE ASTOR"
+            },
+            "type_of_material": "News",
+            "_id": "59b6c4837c459f246b6231c3",
+            "word_count": 606,
+            "score": 2.1592646,
+            "uri": "nyt://article/6dbc4d29-fd04-572c-bc04-1c65958f54fc"
+        },
+        {
+            "web_url": "https://www.nytimes.com/2017/09/22/style/cat-domain-catalonia.html",
+            "snippet": "Secessionists. A government raid. Censorship. Cats. The internet. Naturally we were curious.",
+            "blog":
+            {},
+            "source": "The New York Times",
+            "multimedia": [
+            {
+                "type": "image",
+                "subtype": "xlarge",
+                "url": "images/2017/09/23/style/23xp-cat/23xp-cat-articleLarge.jpg",
+                "height": 400,
+                "width": 600,
+                "rank": 0,
+                "legacy":
+                {
+                    "xlargewidth": 600,
+                    "xlarge": "images/2017/09/23/style/23xp-cat/23xp-cat-articleLarge.jpg",
+                    "xlargeheight": 400
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "wide",
+                "url": "images/2017/09/23/style/23xp-cat/23xp-cat-thumbWide.jpg",
+                "height": 126,
+                "width": 190,
+                "rank": 0,
+                "legacy":
+                {
+                    "wide": "images/2017/09/23/style/23xp-cat/23xp-cat-thumbWide.jpg",
+                    "widewidth": 190,
+                    "wideheight": 126
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "thumbnail",
+                "url": "images/2017/09/23/style/23xp-cat/23xp-cat-thumbStandard.jpg",
+                "height": 75,
+                "width": 75,
+                "rank": 0,
+                "legacy":
+                {
+                    "thumbnailheight": 75,
+                    "thumbnail": "images/2017/09/23/style/23xp-cat/23xp-cat-thumbStandard.jpg",
+                    "thumbnailwidth": 75
+                }
+            }],
+            "headline":
+            {
+                "main": "Spain and Catalonia Wrestle Over .Cat Internet Domain",
+                "print_headline": "Spain and Catalonia Wrestle Over .Cat Internet Domain"
+            },
+            "keywords": [
+            {
+                "isMajor": "N",
+                "rank": 1,
+                "name": "subject",
+                "value": "Cats"
+            },
+            {
+                "isMajor": "N",
+                "rank": 2,
+                "name": "subject",
+                "value": "Domain Names (Internet)"
+            },
+            {
+                "isMajor": "N",
+                "rank": 3,
+                "name": "subject",
+                "value": "Censorship"
+            },
+            {
+                "isMajor": "N",
+                "rank": 4,
+                "name": "organizations",
+                "value": "Internet Corp for Assigned Names and Numbers"
+            },
+            {
+                "isMajor": "N",
+                "rank": 5,
+                "name": "glocations",
+                "value": "Catalonia (Spain)"
+            },
+            {
+                "isMajor": "N",
+                "rank": 6,
+                "name": "glocations",
+                "value": "Spain"
+            }],
+            "pub_date": "2017-09-22T17:29:50+0000",
+            "document_type": "article",
+            "new_desk": "Styles",
+            "byline":
+            {
+                "original": "By JONAH ENGEL BROMWICH"
+            },
+            "type_of_material": "News",
+            "_id": "59c5489a7c459f246b62a453",
+            "word_count": 591,
+            "score": 2.14731,
+            "uri": "nyt://article/aade8f1e-f02f-505a-817b-6f8c03cb8200"
+        },
+        {
+            "web_url": "https://www.nytimes.com/aponline/2017/11/11/us/ap-us-cats-stolen-shelter.html",
+            "snippet": "A Rhode Island animal care clinic and shelter says a former employee broke into the clinic and stole more than 30 cats this week.",
+            "blog":
+            {},
+            "source": "AP",
+            "multimedia": [],
+            "headline":
+            {
+                "main": "Shelter: Disgruntled Ex-Employee Stole 33 Cats From Facility",
+                "print_headline": "Shelter: Disgruntled Ex-Employee Stole 33 Cats From Facility"
+            },
+            "keywords": [],
+            "pub_date": "2017-11-11T21:12:47+0000",
+            "document_type": "article",
+            "new_desk": "None",
+            "byline":
+            {
+                "original": "By THE ASSOCIATED PRESS"
+            },
+            "type_of_material": "News",
+            "_id": "5a0767da7c459f246b633eb9",
+            "word_count": 104,
+            "score": 1.9939262,
+            "uri": "nyt://article/92da5082-691d-5801-b466-d1cb2efd35f9"
+        },
+        {
+            "web_url": "https://www.nytimes.com/2017/10/27/realestate/a-bedroom-for-rover-maybe-even-a-condo.html",
+            "snippet": "For serious animal lovers, pets are like family. And doesn’t every family member deserve his own space?",
+            "print_page": "1",
+            "blog":
+            {},
+            "source": "The New York Times",
+            "multimedia": [
+            {
+                "type": "image",
+                "subtype": "xlarge",
+                "url": "images/2017/10/29/realestate/29PETS-slide-8ETT/29PETS-slide-8ETT-articleLarge.jpg",
+                "height": 750,
+                "width": 600,
+                "rank": 0,
+                "legacy":
+                {
+                    "xlargewidth": 600,
+                    "xlarge": "images/2017/10/29/realestate/29PETS-slide-8ETT/29PETS-slide-8ETT-articleLarge.jpg",
+                    "xlargeheight": 750
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "wide",
+                "url": "images/2017/10/29/realestate/29PETS-slide-8ETT/29PETS-slide-8ETT-thumbWide.jpg",
+                "height": 126,
+                "width": 190,
+                "rank": 0,
+                "legacy":
+                {
+                    "wide": "images/2017/10/29/realestate/29PETS-slide-8ETT/29PETS-slide-8ETT-thumbWide.jpg",
+                    "widewidth": 190,
+                    "wideheight": 126
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "thumbnail",
+                "url": "images/2017/10/29/realestate/29PETS-slide-8ETT/29PETS-slide-8ETT-thumbStandard.jpg",
+                "height": 75,
+                "width": 75,
+                "rank": 0,
+                "legacy":
+                {
+                    "thumbnailheight": 75,
+                    "thumbnail": "images/2017/10/29/realestate/29PETS-slide-8ETT/29PETS-slide-8ETT-thumbStandard.jpg",
+                    "thumbnailwidth": 75
+                }
+            }],
+            "headline":
+            {
+                "main": "A Bedroom for Rover, Maybe Even a Condo",
+                "print_headline": "Bark Before Entering"
+            },
+            "keywords": [
+            {
+                "isMajor": "N",
+                "rank": 1,
+                "name": "subject",
+                "value": "Real Estate and Housing (Residential)"
+            },
+            {
+                "isMajor": "N",
+                "rank": 2,
+                "name": "subject",
+                "value": "Pets"
+            },
+            {
+                "isMajor": "N",
+                "rank": 3,
+                "name": "subject",
+                "value": "Dogs"
+            },
+            {
+                "isMajor": "N",
+                "rank": 4,
+                "name": "subject",
+                "value": "Cats"
+            },
+            {
+                "isMajor": "N",
+                "rank": 5,
+                "name": "subject",
+                "value": "Rabbits"
+            },
+            {
+                "isMajor": "N",
+                "rank": 6,
+                "name": "subject",
+                "value": "Birds"
+            }],
+            "pub_date": "2017-10-27T09:01:28+0000",
+            "document_type": "article",
+            "new_desk": "RealEstate",
+            "byline":
+            {
+                "original": "By CAROLINE BIGGS"
+            },
+            "type_of_material": "News",
+            "_id": "59f2f5f67c459f246b631165",
+            "word_count": 1440,
+            "score": 1.9548028,
+            "uri": "nyt://article/0a5f8d7a-8897-5b5e-ac8f-9362aa3a1514"
+        },
+        {
+            "web_url": "https://www.nytimes.com/2017/10/11/magazine/can-my-cat-go-out-if-he-bullies-other-cats.html",
+            "snippet": "The magazine’s Ethicist columnist on balancing competing rights to happiness and why motives matter when seeking to punish others for wrongdoing.",
+            "print_page": "22",
+            "blog":
+            {},
+            "source": "The New York Times",
+            "multimedia": [
+            {
+                "type": "image",
+                "subtype": "xlarge",
+                "url": "images/2017/10/15/magazine/15ethicist/15mag-15ethicist-t_CA0-articleLarge.jpg",
+                "height": 974,
+                "width": 600,
+                "rank": 0,
+                "legacy":
+                {
+                    "xlargewidth": 600,
+                    "xlarge": "images/2017/10/15/magazine/15ethicist/15mag-15ethicist-t_CA0-articleLarge.jpg",
+                    "xlargeheight": 974
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "wide",
+                "url": "images/2017/10/15/magazine/15ethicist/15mag-15ethicist-t_CA0-thumbWide.jpg",
+                "height": 126,
+                "width": 190,
+                "rank": 0,
+                "legacy":
+                {
+                    "wide": "images/2017/10/15/magazine/15ethicist/15mag-15ethicist-t_CA0-thumbWide.jpg",
+                    "widewidth": 190,
+                    "wideheight": 126
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "thumbnail",
+                "url": "images/2017/10/15/magazine/15ethicist/15mag-15ethicist-t_CA0-thumbStandard.jpg",
+                "height": 75,
+                "width": 75,
+                "rank": 0,
+                "legacy":
+                {
+                    "thumbnailheight": 75,
+                    "thumbnail": "images/2017/10/15/magazine/15ethicist/15mag-15ethicist-t_CA0-thumbStandard.jpg",
+                    "thumbnailwidth": 75
+                }
+            }],
+            "headline":
+            {
+                "main": "Can My Cat Go Out if He Bullies Other Cats?",
+                "kicker": "The Ethicist",
+                "print_headline": "Can My Cat Go Outside If He Bullies Other Cats? "
+            },
+            "keywords": [
+            {
+                "isMajor": "N",
+                "rank": 1,
+                "name": "subject",
+                "value": "Animal Abuse, Rights and Welfare"
+            },
+            {
+                "isMajor": "N",
+                "rank": 2,
+                "name": "subject",
+                "value": "Philosophy"
+            },
+            {
+                "isMajor": "N",
+                "rank": 3,
+                "name": "subject",
+                "value": "Happiness"
+            },
+            {
+                "isMajor": "N",
+                "rank": 4,
+                "name": "subject",
+                "value": "Bullies"
+            },
+            {
+                "isMajor": "N",
+                "rank": 5,
+                "name": "subject",
+                "value": "Workplace Environment"
+            },
+            {
+                "isMajor": "N",
+                "rank": 6,
+                "name": "subject",
+                "value": "Ethics (Personal)"
+            },
+            {
+                "isMajor": "N",
+                "rank": 7,
+                "name": "subject",
+                "value": "Cats"
+            },
+            {
+                "isMajor": "N",
+                "rank": 8,
+                "name": "subject",
+                "value": "Lying"
+            }],
+            "pub_date": "2017-10-11T09:00:26+0000",
+            "document_type": "article",
+            "new_desk": "Magazine",
+            "byline":
+            {
+                "original": "By KWAME ANTHONY APPIAH"
+            },
+            "type_of_material": "News",
+            "_id": "59ddddb07c459f246b62df73",
+            "word_count": 1162,
+            "score": 1.7831293,
+            "uri": "nyt://article/dde6a4dd-5606-5996-91dc-5491eeaebe7c"
+        },
+        {
+            "web_url": "https://www.nytimes.com/2017/08/18/sports/baseball/rally-cat-st-louis-cardinals.html",
+            "snippet": "Cardinals catcher Yadier Molina hit a game-winning home run after a cat ran onto the field, earning itself the nickname Rally Cat. Now the cat is the focus of a custody dispute.",
+            "print_page": "4",
+            "blog":
+            {},
+            "source": "The New York Times",
+            "multimedia": [
+            {
+                "type": "image",
+                "subtype": "xlarge",
+                "url": "images/2017/08/19/sports/19CAT/19CATweb2-articleLarge.jpg",
+                "height": 775,
+                "width": 600,
+                "rank": 0,
+                "legacy":
+                {
+                    "xlargewidth": 600,
+                    "xlarge": "images/2017/08/19/sports/19CAT/19CATweb2-articleLarge.jpg",
+                    "xlargeheight": 775
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "wide",
+                "url": "images/2017/08/19/sports/19CAT/19CATweb2-thumbWide.jpg",
+                "height": 126,
+                "width": 190,
+                "rank": 0,
+                "legacy":
+                {
+                    "wide": "images/2017/08/19/sports/19CAT/19CATweb2-thumbWide.jpg",
+                    "widewidth": 190,
+                    "wideheight": 126
+                }
+            },
+            {
+                "type": "image",
+                "subtype": "thumbnail",
+                "url": "images/2017/08/19/sports/19CAT/19CATweb2-thumbStandard.jpg",
+                "height": 75,
+                "width": 75,
+                "rank": 0,
+                "legacy":
+                {
+                    "thumbnailheight": 75,
+                    "thumbnail": "images/2017/08/19/sports/19CAT/19CATweb2-thumbStandard.jpg",
+                    "thumbnailwidth": 75
+                }
+            }],
+            "headline":
+            {
+                "main": "An Adorable Cat. A Grand Slam. A Kerfuffle in St. Louis.",
+                "print_headline": "Rally Cat Is the Focus of a Custody Dispute"
+            },
+            "keywords": [
+            {
+                "isMajor": "N",
+                "rank": 1,
+                "name": "subject",
+                "value": "Baseball"
+            },
+            {
+                "isMajor": "N",
+                "rank": 2,
+                "name": "organizations",
+                "value": "St Louis Cardinals"
+            },
+            {
+                "isMajor": "N",
+                "rank": 3,
+                "name": "subject",
+                "value": "Cats"
+            },
+            {
+                "isMajor": "N",
+                "rank": 4,
+                "name": "organizations",
+                "value": "St Louis Feral Cat Outreach"
+            }],
+            "pub_date": "2017-08-18T15:38:18+0000",
+            "document_type": "article",
+            "new_desk": "Sports",
+            "section_name": "Baseball",
+            "byline":
+            {
+                "original": "By VICTOR MATHER"
+            },
+            "type_of_material": "News",
+            "_id": "599709f67c459f246b61f028",
+            "word_count": 517,
+            "score": 1.7761226,
+            "uri": "nyt://article/1131fca6-858e-5fa4-9c7d-a8dc84875197"
+        }],
+        "meta":
+        {
+            "hits": 2208,
+            "offset": 0,
+            "time": 7
+        }
+    }
+}
